@@ -1,0 +1,10 @@
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\bin\Debug\ControlCartuchos.exe
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\bin\Debug\ControlCartuchos.pdb
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\bin\Debug\ControlCartuchos.xml
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.Menu.resources
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.Resources.resources
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.AdministracionStock.resources
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.vbproj.GenerateResource.Cache
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.exe
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.xml
+C:\Surfactan\Sistema\ControlCartuchos\ControlCartuchos\ControlCartuchos\obj\x86\Debug\ControlCartuchos.pdb
